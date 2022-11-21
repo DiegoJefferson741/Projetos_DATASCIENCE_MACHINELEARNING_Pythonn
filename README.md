@@ -13,7 +13,8 @@ Previsão de preço de ações usando aprendizado de máquina
 https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/
 
 
-
+Crie uma API com Python.
+https://thecleverprogrammer.com/2020/09/16/api-with-python/
 
 
 
