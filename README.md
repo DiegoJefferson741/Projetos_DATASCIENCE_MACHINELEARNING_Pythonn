@@ -18,6 +18,7 @@ https://thecleverprogrammer.com/2020/09/16/api-with-python/
 
 
 
-
+Reconhecimento de cores com aprendizado de máquina.
+https://thecleverprogrammer.com/2020/09/14/colour-recognition-with-python/
 
 
